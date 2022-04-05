@@ -1,0 +1,31 @@
+id: P41BF55A7
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1797
+  instance_id: http://purl.bdrc.io/resource/IE1KG1797
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྒྱལ་སྲས་ཐོགས་མེད་རིན་པོ་ཆེའི་རྣམ་ཐར་དད་པའི་གསལ་འདེབས་དང་གཞན་ལ་ཕན་པའི་འོད་ཟེར།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - wu zhu xian chuan ji jie xu fo zhi san si qi xing
+  author: http://purl.bdrc.io/resource/P4023
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    f22656c15fad40768809c8fa9a1efc83:
+      title: པོད ༡་རྒྱལ་སྲས་ཐོགས་མེད་རིན་པོ་ཆེའི་རྣམ་ཐར་དད་པའི་གསལ་འདེབས་དང་གཞན་ལ་ཕན་པའི་འོད་ཟེར
+      volume_number: 1
+      base_file: UT1KG1797_I1KG1864_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6A4017DDE932233E
+      image_group: I1KG1864
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG1797
+  - http://purl.bdrc.io/resource/MW1KG1797
+  ocr_software: Namsel
+created_at: '2021-12-24T17:16:21.189381'
+last_modified_at: '2021-12-24T17:16:21.189391'
